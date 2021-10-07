@@ -5,3 +5,5 @@ https://github.com/sasu-drooz/Domoticz-Rfplayer/wiki/Setup
 
 French how-to : http://www.planete-domotique.com/blog/2017/05/05/utilisation-rfplayer-domoticz
 
+
+Script amélioration spécifique X2D et ID
